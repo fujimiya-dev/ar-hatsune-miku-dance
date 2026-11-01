@@ -1,0 +1,76 @@
+# ==================================================
+#  Unity 標準
+# ==================================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity が自動で作るファイル
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# エディタ・OS
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ビルド成果物
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+sysinfo.txt
+
+# シーンの自動バックアップ
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# ==================================================
+#  再配布できない素材（README の入手先から各自で用意してください）
+# ==================================================
+
+# 3Dモデル「止丸式初音ミクNT」（止丸様 / BOOTH）- 再配布禁止
+/Assets/*止丸式初音ミクNT*
+/Assets/tomarudo/
+/Assets/tomarudo.meta
+
+# 3Dモデル「とっと式初音ミクV3」- モーション変換用
+/Assets/Animation/Animation/*v3_ver.2.02*
+
+# モーション「ダンスロボットダンス」（ねこがし様）と、そこから変換したアニメーション - 再配布禁止
+/Assets/Animation/Animation/DanceRobotDance/
+/Assets/Animation/Animation/DanceRobotDance.meta
+
+# 音声・動画（楽曲は著作物のため）
+*.mp3
+*.mp3.meta
+*.wav
+*.wav.meta
+*.ogg
+*.ogg.meta
+*.mp4
+*.mp4.meta
