@@ -3,6 +3,8 @@
 スマートフォンのカメラ越しに、現実の床の上で初音ミクが「ダンスロボットダンス」を踊る AR アプリです。
 NAIST スプリングセミナー 2025 で制作しました。
 
+![デモ](docs/thumbnail.png)
+
 🎬 デモ動画：https://youtu.be/XVdnpx9j8sA?si=137gI_zKpeDP3Oyi
 
 ## 主な機能
